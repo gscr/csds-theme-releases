@@ -1,11 +1,11 @@
 {
-  "version": "1.5.1",
-  "package": "https://github.com/gscr/csds-theme-releases/raw/refs/heads/main/1.5.1.zip",
+  "version": "1.5.2",
+  "package": "https://github.com/gscr/csds-theme-releases/raw/refs/heads/main/1.5.2.zip",
   "last_updated": "2025-10-24",
   "sections": {
     "description": "A new release of the theme is available.",
     "changelog": "Check the changelog for more information."
   },
   "details_url": "https://github.com/gscr/csds-theme-releases",
-  "download_url": "https://github.com/gscr/csds-theme-releases/raw/refs/heads/main/1.5.1.zip"
+  "download_url": "https://github.com/gscr/csds-theme-releases/raw/refs/heads/main/1.5.2.zip"
 }
